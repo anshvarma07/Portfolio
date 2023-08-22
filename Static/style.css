@@ -671,3 +671,15 @@ nav {
         font-size: 1.3rem;
     }
 }
+
+@media (max-width: 368px){
+
+    .logo-name {
+        position: relative;
+        right: 70px;
+    }
+
+    .hamburger-menu{
+        right: 140px;
+    }
+}
